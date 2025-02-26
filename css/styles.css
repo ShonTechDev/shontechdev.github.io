@@ -27,6 +27,7 @@ nav{
     padding-bottom: 15px;
     margin-bottom: 90px;
     text-align: center;
+    background-color: black;
 }
 
 /*===== portfolio LOGO image thru nav ============*/
@@ -135,7 +136,7 @@ h2{
 .projects p{
     font-size: 1rem;
     color: white;
-    border: solid green 1px;
+    /* border: solid green 1px; */
     padding: 5px;
 }
 
