@@ -101,7 +101,14 @@ h2{
 /* PROJECT sections */
 
 .projects{
-    padding: 15%;
+    /* border-bottom: solid rgb(235, 232, 232) 1px; */
+    padding-bottom: 8%;
+    margin-top: -170px;
+    background-color: black;
+}
+
+.projects{
+    padding: 10%;
     /* border-bottom: solid rgb(235, 232, 232) 1px; */
     /* background-color: rgb(246, 246, 253); */
     margin-top: 5px;
@@ -140,11 +147,7 @@ h2{
     padding: 5px;
 }
 
-.projects{
-    /* border-bottom: solid rgb(235, 232, 232) 1px; */
-    padding-bottom: 8%;
-    margin-top: -170px;
-}
+
 
 
 /* ---FLEX CONTAINER FOR PRODUCT PHOTOS--- */
@@ -159,8 +162,9 @@ h2{
 .stack{
     margin-top: 30px;
     padding: 7%;
-    padding-bottom: 8%;
+    padding-bottom: 3%;
     border-top: solid rgb(235, 232, 232) 1px;
+    background-color: black;
 }
 
 .stack > h2{
