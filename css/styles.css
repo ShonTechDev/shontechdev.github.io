@@ -12,7 +12,7 @@ body{
     background-color: black;
 }
 
-/*==============================*/
+/*================ NAV ==============*/
 nav li {
     display: inline;
     margin: 4%;
@@ -77,7 +77,7 @@ main > p {
     box-shadow: inset;
 }
 
-
+/*=============== ABOUT ME TOP SECTION===============*/
 .aboutme-paragraphs{
     color: white;
 }
@@ -98,7 +98,7 @@ h2{
     margin-bottom: 4rem;;
 }
 
-/* PROJECT sections */
+/*=============== PROJECT section===============*/
 
 .projects{
     /* border-bottom: solid rgb(235, 232, 232) 1px; */
