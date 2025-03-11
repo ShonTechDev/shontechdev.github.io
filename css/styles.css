@@ -88,6 +88,7 @@ main {
     border-bottom: solid rgb(235, 232, 232) 1px;
     height: 700px;
     margin: 200px 0 5px 0;
+    padding-left: 50px;
 }
 
 h2{
@@ -96,6 +97,17 @@ h2{
     color: rgba(216,164,80);
     font-weight: bolder;
     margin-bottom: 4rem;;
+}
+
+.github-icon{
+   height: 10px;
+   /* padding: 10px; */
+   padding-left: 100px;
+   margin-bottom: 90px;
+} 
+
+.github-icon > p{
+    color: white;
 }
 
 /*=============== PROJECT section===============*/
